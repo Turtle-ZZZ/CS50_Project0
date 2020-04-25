@@ -17,3 +17,21 @@ body{
 #Drop_Menu{
     background-color:black;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-image: url(Images/BackGround2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+    background-image: url(Images/Techthing.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+}
