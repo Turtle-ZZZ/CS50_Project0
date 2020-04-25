@@ -1,0 +1,19 @@
+body{
+    background-image:url(Images/BackGround2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar {
+    background: none;
+}
+#Nav_Website{
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+#DropDownLinks{
+    text-color:white;
+}
+#Drop_Menu{
+    background-color:black;
+}
